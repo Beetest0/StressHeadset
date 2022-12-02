@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressHeadset_UI", "StressHeadset\StressHeadset_UI.csproj", "{14E5C323-5130-4E99-A118-3D079B83951B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressHeadset_player_sample", "StressHeadset_player\StressHeadset_player_sample.csproj", "{7D846D38-F9F2-4E6B-A189-0C6CF9CE5548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressHeadset_TEST", "StressHeadset_TEST\StressHeadset_TEST.csproj", "{66777FA8-7C71-49EB-BC8F-911C9AED7D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StressHeadset_TEST_UART", "StressHeadset_TEST_UART\StressHeadset_TEST_UART.csproj", "{D3594B15-27E7-46DF-9520-4A9536CB5F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E5C323-5130-4E99-A118-3D079B83951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E5C323-5130-4E99-A118-3D079B83951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E5C323-5130-4E99-A118-3D079B83951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E5C323-5130-4E99-A118-3D079B83951B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D846D38-F9F2-4E6B-A189-0C6CF9CE5548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D846D38-F9F2-4E6B-A189-0C6CF9CE5548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D846D38-F9F2-4E6B-A189-0C6CF9CE5548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D846D38-F9F2-4E6B-A189-0C6CF9CE5548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66777FA8-7C71-49EB-BC8F-911C9AED7D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66777FA8-7C71-49EB-BC8F-911C9AED7D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66777FA8-7C71-49EB-BC8F-911C9AED7D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66777FA8-7C71-49EB-BC8F-911C9AED7D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3594B15-27E7-46DF-9520-4A9536CB5F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3594B15-27E7-46DF-9520-4A9536CB5F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3594B15-27E7-46DF-9520-4A9536CB5F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3594B15-27E7-46DF-9520-4A9536CB5F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03578511-54A6-42DB-9264-77BCAD5C3429}
+	EndGlobalSection
+EndGlobal
